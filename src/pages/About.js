@@ -27,7 +27,6 @@ class About extends Component {
         <h2>Category</h2>
         {this.state.recipe && this.state.recipe.strCategory}
 
-        <h2> Meal</h2>
         <div>
           <img
             src={this.state.recipe.strMealThumb}

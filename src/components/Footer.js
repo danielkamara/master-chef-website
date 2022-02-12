@@ -21,7 +21,9 @@ const Footer = () => {
 const container = {
   display: "flex",
   justifyContent: "space-around",
-  backgroundColor: "#298o69",
+  backgroundColor: "green",
+  color: "#fff",
+  height: "100px",
 };
 
 export default Footer;

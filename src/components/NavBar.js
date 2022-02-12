@@ -3,16 +3,9 @@ import { Link } from "react-router-dom";
 const NavBar = () => {
   return (
     <nav style={container}>
-      <Link to="/" style={{ color: "#fff" }}>
-        Home Page
-      </Link>
-      <Link to="/about" style={{ color: "#fff" }}>
-        {" "}
-        About Page
-      </Link>
-      <Link to="/contact" style={{ color: "#fff" }}>
-        Contact Page
-      </Link>
+      <Link to="/">Home Page</Link>
+      <Link to="/about"> About Page</Link>
+      <Link to="/contact">Contact Page</Link>
     </nav>
   );
 };
@@ -21,7 +14,7 @@ const container = {
   display: "flex",
   justifyContent: "space-around",
   backgroundColor: "green",
-  color: "#fff",
+  color: "white",
   height: "50px",
 };
 
