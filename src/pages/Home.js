@@ -14,7 +14,7 @@ const Home = () => {
           culpa qui officia deserunt mollit anim id est laborum.
         </p>
         <div>
-          <img src="https://images.unsplash.com/photo-1524758631624-e2822e304c36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=1400&q=60" />
+          <img src="https://media.istockphoto.com/photos/foods-high-in-zinc-picture-id1289940519?s=612x612" />
         </div>
 
         <p>
